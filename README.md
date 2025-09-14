@@ -16,7 +16,3 @@ A simple and secure console-based banking system implemented in Python, featurin
 - User-friendly CLI interface with input validation
 - Console beautification with colors and clear screen for enhanced UX
 
----
-
-## Project Structure
-
